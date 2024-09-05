@@ -1,0 +1,216 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="stylesheet" href="style.css">
+    <title>UglySFish Sellers</title>
+</head>
+<body>
+
+<div class="page-body">
+
+    <div class="main-division">
+
+        <header>
+            <div class="header-section">
+                <h1>UglyFishSellers.com</h1>
+            </div>
+        </header>
+        <div class="category-division">
+            <div class="category-section">
+                <nav>
+                    <ul>
+                        <li><a href="#home"><h2>Departments &#129171;</h2></a></li>
+                        <li><a href="#resources"><h2>Resources</h2></a></li>
+                    </ul>
+                </nav>
+            </div>
+            <div class="category-section_2">
+                <nav>
+                    <ul>
+                        <li><a><h3><i class="fa">&#xf07a;</i>My cart &#129171;</h3></a></li>
+                    </ul>
+                </nav>
+            </div>
+        </div>
+        <section id="home">
+            <h5>Hot sellers</h5>
+            <div class="main-content">
+                <div class="content-section">
+
+                    <img src="https://shorturl.at/Zprdx" alt="red-bellied piranha">
+                    <h2>Red-bellied Piranha</h2>
+                    <h4><i>Pygocentrus nattereri</i></h4>
+                    <h3>$15.99</h3>
+                    <button class="buy-button">Buy</button>
+                    <button class="cart-button">Add to cart</button>
+
+                </div>
+                <div class="content-section">
+
+                    <img src="https://shorturl.at/8PeGG" alt="Sea lamprey">
+                    <h2>Sea Lamprey</h2>
+                    <h4><i>Petromyzon marinus</i></h4>
+                    <h3>$9.99</h3>
+                    <button class="buy-button">Buy</button>
+                    <button class="cart-button">Add to cart</button>
+
+                </div>
+                <div class="content-section">
+
+                    <img src="https://shorturl.at/UeEnz" alt="Pacific Barreleye fish">
+                    <h2>Pacific Barreleye</h2>
+                    <h4><i>Macropinna microstoma</i></h4>
+                    <h3>$19.99</h3>
+                    <button class="buy-button">Buy</button>
+                    <button class="cart-button">Add to cart</button>
+
+                </div>
+                <div class="content-section">
+
+                    <img src="https://shorturl.at/BVtb1" alt="Red-lipped Batfish">
+                    <h2>Red-lipped Batfish</h2>
+                    <h4><i>Ogcocephalus darwini</i></h4>
+                    <h3>$7.99</h3>
+                    <button class="buy-button">Buy</button>
+                    <button class="cart-button">Add to cart</button>
+
+                </div>
+                <div class="content-section">
+
+                    <img src="https://shorturl.at/zzxKB" alt="Wolf Fish">
+                    <h2>Atlantic Wolffish</h2>
+                    <h4><i>Anarhichas lupus</i></h4>
+                    <h3>$19.99</h3>
+                    <button class="buy-button">Buy</button>
+                    <button class="cart-button">Add to cart</button>
+
+                </div>
+            </div>
+
+            <div class="main-content">
+                <div class="content-section">
+
+                    <img src="https://rb.gy/d3afq9" alt="Sea Pig">
+                    <h2>Sea Pig</h2>
+                    <h4><i>Scotoplanes globosa</i></h4>
+                    <h3>$12.99</h3>
+                    <button class="buy-button">Buy</button>
+                    <button class="cart-button">Add to cart</button>
+
+                </div>
+                <div class="content-section">
+
+                    <img src="https://rb.gy/lb9582" alt="Yellow Bichir">
+                    <h2>Bichir</h2>
+                    <h4><i>Polypterus senegalus</i></h4>
+                    <h3>$18.99</h3>
+                    <button class="buy-button">Buy</button>
+                    <button class="cart-button">Add to cart</button>
+
+                </div>
+                <div class="content-section">
+
+                    <img src="https://shorturl.at/QIa3w" alt="Red Mantis Shrimp">
+                    <h2>Mantis Shrimp</h2>
+                    <h4><i>Odontodactylus scyllarus</i></h4>
+                    <h3>$17.99</h3>
+                    <button class="buy-button">Buy</button>
+                    <button class="cart-button">Add to cart</button>
+
+                </div>
+                <div class="content-section">
+
+                    <img src="https://shorturl.at/uIwjM" alt="Blobfish">
+                    <h2>Blobfish</h2>
+                    <h4><i>Psychrolutes marcidus</i></h4>
+                    <h3>$1.99</h3>
+                    <button class="buy-button">Buy</button>
+                    <button class="cart-button">Add to card</button>
+
+                </div>
+                <div class="content-section">
+
+                    <img src="https://shorturl.at/dHjyL" alt="Blue Harlequin shrimp">
+                    <h2>Harlequin shrimp</h2>
+                    <h4><i>Hymenocera picta</i></h4>
+                    <h3>$19.99</h3>
+                    <button class="buy-button">Buy</button>
+                    <button class="cart-button">Add to cart</button>
+
+                </div>
+            </div>
+        </section>
+
+        <section id="resources">
+            <h5>Resources</h5>
+            <div class="main-content">
+                <div class="resources-section">
+                    <div class="resources-division">
+                        <img src="https://shorturl.at/SAccO" alt="Stupid yellow guppie fish opening mouth">
+                        <a><h2>Are fish as stupid as we thought they were?</h2></a>
+                        <h4>Recent studies show that small shoaling fish can count, sharing a mathematical gene with
+                            humans.</h4>
+                    </div>
+                    <div class="resources-division">
+                        <img src="https://shorturl.at/nyOvn" alt="Two beautiful colorful exotic fish">
+                        <a><h2>How to properly take care of exotic fish</h2></a>
+                        <h4>Adopting a dog is hard, but not as hard as taking care of rare fish! In this article we will
+                            teach you all about fishkeeping.</h4>
+                    </div>
+                    <div class="resources-division">
+                        <img src="https://shorturl.at/urFoR" alt="Ugly red big-lipped fish">
+                        <a><h2>Ugliest fish ever found in the Bahamas</h2></a>
+                        <h4>The Bahamas are known for beautiful colorful fish, but recent studies show     that this is not
+                            always the case.</h4>
+                    </div>
+                    <div class="resources-division">
+                        <img src="https://shorturl.at/WJPMQ" alt="Cute fish being pet, so cute">
+                        <a><h2>Why you should pet your fish</h2></a>
+                        <h4>Aren't they cute? Studies show that you should, in fact, pet your fish to show affection,
+                            contrary to popular beliefs.</h4>
+                    </div>
+
+                </div>
+            </div>
+            <div class="main-content">
+                <div class="resources-section">
+                    <div class="fish-section">
+                        <h1>Freshwater listings</h1>
+                        <button class="browse-button">Browse category</button>
+                    </div>
+                    <div class="fish-section_2">
+                        <h1>Saltwater listings</h1>
+                        <button class="browse-button">Browse category</button>
+                    </div>
+                </div>
+            </div>
+        </section>
+
+        <footer>
+            <div class="footer-section">
+                <h2>Subscribe to our Newsletter</h2>
+                <p>Join this passionate community of strange fish owners and be up-to-date with the latest information
+                    about fish keeping!</p>
+                <input type="text" placeholder="Name" name="name" required>
+                <input type="text" placeholder="Email address" name="mail" required>
+                <label><input type="checkbox" checked="checked" name="subscribe"> Daily news</label>
+
+                <input type="submit" value="Subscribe">
+            </div>
+
+            <div class="footer-ending">
+                <p> Web software by PetromyzonMonster © 2022-2024<br>
+                    Your Favorite Parasite!<br>
+                    | Made as an assigment for college.
+                </p>
+            </div>
+        </footer>
+
+    </div>
+
+</div>
+
+</body>
+</html>

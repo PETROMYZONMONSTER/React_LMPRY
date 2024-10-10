@@ -6,10 +6,6 @@ main {
   color: #474747;
 }
 
-h1 {
-  margin: 0;
-}
-
 header {
   width: 100vw;
   background: lightgrey;
@@ -21,6 +17,19 @@ header {
   display: flex;
   flex-direction: column;
   align-items: center;
+}
+
+.container-division{
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+}
+
+.vertical-row {
+  Float: left;
+  height: 200px;
+  width: 2px;
+  background-color: lightgrey;
 }
 
 .container {
